@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7c8512-6e95-4d32-b19a-46d3d28ce9f6" name="Changes" comment="TwoDArray Helion">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="ab7c8512-6e95-4d32-b19a-46d3d28ce9f6" name="Changes" comment="If Else">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaBasic/ModuloPage87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaBasic/OperatorPytajnikPage99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaBasic/SwitchPage106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,12 +70,77 @@
       <option name="project" value="LOCAL" />
       <updated>1689103602493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pom i inne">
+      <created>1689103929131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689103929131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tablica wielowymiarowa  - deklaracja zmniennych">
+      <created>1689109319633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689109319633</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nieregularna tablica wielowymiarowa">
+      <created>1689109349357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689109349357</updated>
+    </task>
+    <task id="LOCAL-00005" summary="If Else">
+      <created>1689198413244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689198413244</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TwoDArray Helion" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoDArray Helion" />
+    <MESSAGE value="pom i inne" />
+    <MESSAGE value="Tablica wielowymiarowa  - deklaracja zmniennych" />
+    <MESSAGE value="Nieregularna tablica wielowymiarowa" />
+    <MESSAGE value="If Else" />
+    <option name="LAST_COMMIT_MESSAGE" value="If Else" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaBasic/TwoDArray.java</url>
+          <line>3</line>
+          <properties class="JavaBasic.TwoDArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaBasic/TwoDimArrayAgain.java</url>
+          <line>3</line>
+          <properties class="JavaBasic.TwoDimArrayAgain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaBasic/ModuloPage87.java</url>
+          <line>3</line>
+          <properties class="JavaBasic.ModuloPage87" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
